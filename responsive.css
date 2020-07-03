@@ -11,7 +11,7 @@
       display: block;
       line-height: normal; }
       header nav .logo {
-        font-size: 38px;
+        font-size: 32px;
         margin-bottom: 20px; }
       header nav ul {
         justify-content: center; }
@@ -20,7 +20,7 @@
   .mv_wrapper {
     padding: 305px 0 120px; }
     .mv_wrapper h1 {
-      font-size: 42px; }
+      font-size: 34px; }
     .mv_wrapper p {
       font-weight: normal; }
   .about_wrapper .about_content {
